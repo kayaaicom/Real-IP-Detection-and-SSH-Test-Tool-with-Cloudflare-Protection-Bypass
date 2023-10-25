@@ -20,3 +20,13 @@ You will then be asked to enter the target domain. For example: example.com
 
 Note: Since the intended use could be bad, the code has been fixed and some restrictions have been introduced. Please use the tools in good faith for pentesting and hope to become a white hat hacker!<br><br>
 Please use this script only for good purposes and do not create any illegal activity. This script is designed to find the real ip addresses of fake websites and collect information about them and report them to the hosting provider.
+
+#Cloudflare Bypass
+#IP Detection
+#SSH Test
+#DNS Query
+#Subdomain
+#Server Protection
+#Security
+#Connection Control
+#CF Bypass
